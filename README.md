@@ -26,15 +26,15 @@
           <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
           <br/></div>
     </div>
-    <div align= "center">
+    <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="> </a>
           </div>  
+        
     </div>
-
-
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha-yun&theme=ambient_gradient&show_icons=true)
+    <div align="right">
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha-yun&theme=ambient_gradient&show_icons=true)
+    </div>
 
 <!--
 **ha-yun/ha-yun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
